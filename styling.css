@@ -1,0 +1,69 @@
+.responsive {
+    float:right;
+    padding-right:50px;
+    color:black;
+}
+
+a:link{
+    color:black;
+    font-size: large;
+}
+
+a:hover {
+    color:rgb(212, 38, 174);
+    text-decoration: underline;
+ }
+
+.form {
+    float:right;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 35px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;  
+}
+
+.blog {
+    padding-top:250px;
+}
+
+body {
+    background-image: linear-gradient(rgb(255, 240, 239), rgb(238, 177, 177));
+  }
+  
+.container3{
+    float:left;
+    padding-right:40px;
+    font-family:'Arial';   
+}
+
+.container4{
+    float:left;
+    padding-right:40px
+}
+
+.submitButton{
+    padding-left:830px;
+}
+
+.container1 {
+  float:left;
+  padding-right:8px;
+ }
+
+.img1 {
+  float:left
+}
+
+.link1 {
+  padding-bottom:0px;
+  padding-top:23px
+}
+
+.gallery1{
+    padding-left:310px;
+}
